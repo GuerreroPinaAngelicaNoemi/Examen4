@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Examen3</string>
+    <string name="app_IngresaUsu">Ingresa Usuario</string>
+    <string name="app_Usuario">Usuario</string>
+    <string name="app_Ingresacontra">Ingresa Contraseña</string>
+    <string name="app_Contraseña">Contraseña</string>
+    <string name="app_Advertencia">Nota: En caso de ser nuevo por favor registrese 
+        en el boton "Registrar" de lo contrario ingrese en el boton "Ingresar"</string>
+    <string name="app_Registrar">Registrar</string>
+    <string name="app_Ingresar">Ingresar</string>
+    <string name="app_IngresaNombre">Ingresa Nombre</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_IngresaApellido">Ingresa Apellido</string>
+    <string name="app_apellido">Apellido</string>
+    <string name="app_IngresaNControl">Ingresa Numero de control</string>
+    <string name="app_control">Numero de Control</string>
+    <string name="app_IngAdm">Ingenieria en Administracion Empresarial</string>
+    <string name="app_IngInfo">Ingenieria en Informatica</string>
+    <string name="app_IngCivil">Ingenieria en Civil</string>
+    <string name="app_Hola">Hola Usuario</string>
+    <string name="app_Periodo">Periodo</string>
+    <string name="app_2019">2019</string>
+    <string name="app_2018">2018</string>
+    <string name="app_Materia">Materias</string>
+    <string name="app_Mate1">Estructura de Datos</string>
+    <string name="app_Mate2">Desarrollo de Aplicaciones Moviles</string>
+    <string name="app_Mate3">Tecnologias e Interfaces de Computadoras</string>
+    <string name="app_Mate4">Fundamentos de Telecomunicaciones</string>
+    <string name="app_Mate5">Arquitectura de Computadoras</string>
+    <string name="app_salir">Salir</string>
+    <string name="app_cargar">Cargar</string>
+    <string name="app_Profesor">Profesores</string>
+    <string name="app_Profe1">Sandra Magali Garcia Garcia</string>
+    <string name="app_Profe2">Layonet Salvador Buenrostro Perez</string>
+    <string name="app_Profe3">Jose Israel Campero Dominguez</string>
+    <string name="app_Profe4">Belem Beatriz Cruz</string>
+    <string name="app_Profee5">Nestor Josue Beltram Espinoza</string>
+    <string name="app_finalizar">Finalizar</string>
+    <string name="app_corregir">Corregir</string>
+    <string name="app_MateriayMaestro">Materia y Profesor</string>
+</resources>
